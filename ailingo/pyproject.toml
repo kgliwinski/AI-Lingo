@@ -1,0 +1,8 @@
+name = "ai_lingo"
+version = "0.0.1"
+description = "A set of tools to improve language learning experience"
+licence = "MIT"
+authors = [
+    "Krzysztof Gliwiński <kgliwinski01@gmail.com>"
+]
+repository = "https://github.com/kgliwinski/AI-Lingo.git"
